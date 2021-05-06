@@ -1,0 +1,11 @@
+future
+pandas
+voila
+ipywidgets
+plotly
+folium
+matplotlib
+numpy==1.19.4
+seaborn
+pystan
+prophet
