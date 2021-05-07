@@ -1,0 +1,15 @@
+name: example-environment
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - future
+  - voila
+  - matplotlib
+  - ipywidgets
+  - pandas
+  - plotly
+  - folium
+  - seaborn
+  - pystan
+  - prophet
