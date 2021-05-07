@@ -1,1 +1,1 @@
-web: voila --port=$PORT --no-browser forecastcovidsci.ipynb
+web gunicorn app:app
